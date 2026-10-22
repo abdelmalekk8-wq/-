@@ -1,0 +1,6 @@
+{
+  "name": "مقياس الكاميرا",
+  "description": "تطبيق قياس الأطوال والأبعاد الحقيقية للأشياء بتصويرها باستخدام المعايرة البصرية وحساسات الكاميرا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

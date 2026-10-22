@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">مقياس الكاميرا</string>
+    <string name="nav_studio">قياس بالصورة</string>
+    <string name="nav_camera">الكاميرا الحية</string>
+    <string name="nav_clinometer">قياس المسافات</string>
+    <string name="nav_ruler">مسطرة الشاشة</string>
+    <string name="nav_history">السجل</string>
+    <string name="capture_photo">التقاط صورة للقياس</string>
+    <string name="pick_from_gallery">اختيار صورة من المعرض</string>
+    <string name="load_demo_scene">تجربة مشهد قياس تفاعلي</string>
+    <string name="calibration_mode_ref">معايرة بمرجع قياسي</string>
+    <string name="calibration_mode_optics">معايرة بعدسة الكاميرا والمسافة</string>
+    <string name="add_measurement_line">إضافة خط قياس</string>
+    <string name="save_measurement">حفظ القياس</string>
+    <string name="unit_cm">سم</string>
+    <string name="unit_mm">ملم</string>
+    <string name="unit_m">متر</string>
+    <string name="unit_in">إنش</string>
+</resources>

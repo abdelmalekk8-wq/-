@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Precision optical reticle ring + ruler ticks -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,24A30,30 0,1 1,24 54A30,30 0,0 1,54 24M54,29A25,25 0,1 0,79 54A25,25 0,0 0,54 29Z" />
+    <!-- Ruler bar across center -->
+    <path
+        android:fillColor="#FFB703"
+        android:pathData="M28,48h52v12h-52z" />
+    <!-- Ruler tick marks -->
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M35,48h3v6h-3zM44,48h3v8h-3zM53,48h3v6h-3zM62,48h3v8h-3zM71,48h3v6h-3z" />
+    <!-- Top and bottom laser crosshair pointers -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M52,18h4v12h-4zM52,78h4v12h-4z" />
+</vector>
